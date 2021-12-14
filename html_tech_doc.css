@@ -1,6 +1,6 @@
 body, html {
     font-family: 'Nunito', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: .9em;
+    font-size: 1em;
     font-weight: normal;
     line-height: 1.5;
     top: 0;
@@ -121,12 +121,12 @@ p li {
 
 #main-doc {
     position: relative;
-    margin-left: 33vw;
+    margin-left: 325px;
     margin-top: 0;
     padding-top: 0;
     width: auto;
     min-width: 200px;
-    max-width: 800px;
+    max-width: 1200px;
     height: 100%;
     top: 0;
     margin-right: auto;
